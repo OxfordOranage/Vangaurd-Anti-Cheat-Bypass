@@ -17,7 +17,7 @@
 
 * Bypass all detection vectors for Vangaurd
 * Bypass all HWID Bans
-* Bypass 
+* Bypass VM detetcion
 * Written in C++
 * Easy to integrate with any external or internal cheat
 * Completely driverless
