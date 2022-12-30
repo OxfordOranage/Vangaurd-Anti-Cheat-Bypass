@@ -25,7 +25,7 @@
 
 ## Purchase and Download
 
-You can Purchase and download the latest Source for Windows of the Bypass using BTC as a payment method here: [Purchase](https://satoshidisk.com/pay/CHJflQ)
+You can Purchase and download the latest Source for Windows of the Bypass using BTC as a payment method here: [Purchase](https://satoshidisk.com/pay/CHJiZi)
 
 ## Use at your own risk
 
